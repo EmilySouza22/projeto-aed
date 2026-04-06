@@ -1,7 +1,7 @@
 # Análise Exploratória de Dados - Uber Ride Analytics (2024)
 
 **Atividade Prática Extra – Introdução à Inteligência Artificial (SENAI/SC LAB365)**  
-**Aluna:** Emily de Souza Escobar Afonso 
+**Aluna:** Emily de S E Afonso 
 **Data:** 23 de Fevereiro de 2026  
 **Objetivo:** Realizar uma AED simples no dataset "uber-ride-analytics-dashboard" (Kaggle) para compreender padrões de utilização do serviço Uber, variações temporais, características das corridas e indicar aplicações introdutórias em IA (classificação e regressão), conforme descritivo do desafio.
 
